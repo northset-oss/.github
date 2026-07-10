@@ -47,5 +47,5 @@ privilege-escalation exploit, and we won't pretend otherwise.
 work. Anything automated we do is clearly labeled as automation; anything about consent or your
 relationship with us comes from a person.
 
-**Start here:** [northset-oss/verification-pilot](https://github.com/northset-oss/verification-pilot)
+**Public ledger:** <https://northset-oss.github.io/verification-pilot/> · **Start here:** [northset-oss/verification-pilot](https://github.com/northset-oss/verification-pilot)
 · Opt in, opt out, or ask anything by opening an issue there or emailing oss@northset.ai.
