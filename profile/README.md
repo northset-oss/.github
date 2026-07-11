@@ -30,11 +30,14 @@ What the record *means* is spelled out exactly in our
 [Claims Boundary](https://github.com/northset-oss/verification-pilot/blob/main/policies/claims_boundary.md),
 and we hold every word we say to it.
 
-**We add nothing to your queue.** We verify work that's already in front of you, and we take no
-action in your repository until you welcome it. After that, every lever is yours: nothing runs
-until you say so; you choose the scope and whether a record is ever published; say "stop" and we
-stop. We never comment uninvited, never post into a stranger's issues, and add no promotional
-content. Full promise: the
+**Two things we do, kept separate.** **Verifying work already in your queue** — running a PR's
+declared checks, or publishing a record about it — is strictly consent-first: nothing happens
+until you welcome it; you choose the scope and whether a record is ever published; "stop" means
+stop; we never comment uninvited or post into a stranger's issues. Separately, when your project
+invites contribution (a `good first issue` / `help wanted` label), we may contribute a fix
+through your normal process like any contributor, and publish a record of *our own work on it*,
+labeled "Contributor self-run. Not maintainer verification." — never a claim about your approval,
+removable on request. Your merge or rejection is the only outcome we count. Full promise: the
 [Maintainer Respect Policy](https://github.com/northset-oss/verification-pilot/blob/main/policies/maintainer_respect_policy.md).
 
 **About the sandbox, honestly.** Checks run in a hardened, stock Docker container: non-root, all
