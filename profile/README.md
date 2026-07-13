@@ -55,7 +55,7 @@ That proves **provenance**: this record came from our published workflow and has
 
 ## Being straight with you
 
-**Where we actually are.** Twelve run records so far: three rehearsals on our own repo, nine on pull requests we wrote and submitted ourselves. **No maintainer has invited a verification yet** — you would be the first. Every record is in the [ledger](https://northset-oss.github.io/verification-pilot/), labeled by type, including the ones whose PRs were rejected.
+**Most of the ledger, so far, is our own work.** Rehearsals on our own repo, and pull requests we wrote and submitted ourselves — each labeled *"Contributor self-run. Not maintainer verification."* A self-run is us checking our own homework; it is not a maintainer vouching for us, and we never let the two look alike. A maintainer-invited verification is labeled as its own thing, so the real mix is always visible. The [ledger](https://northset-oss.github.io/verification-pilot/) is generated from the records themselves, so it's current, and it includes the pull requests that got rejected. We don't curate it.
 
 **We do sometimes open pull requests** — but only where your project already invites contribution (a `good first issue` / `help wanted` label, an assignment, an invitation), through your normal process, as a named person, with AI assistance disclosed in your format. Any record we publish about our own PR is labeled *"Contributor self-run. Not maintainer verification."* Your merge or rejection is the only outcome we count. Full promise: [Maintainer Respect Policy](https://github.com/northset-oss/verification-pilot/blob/main/policies/maintainer_respect_policy.md).
 
