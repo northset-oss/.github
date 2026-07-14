@@ -4,6 +4,8 @@ Your queue is filling with AI-assisted pull requests that look plausible at a gl
 
 Point us at a pull request. We run *its own declared checks* — the tests, lint, and build your project already defines — in a locked-down, throwaway container on our machines, and send you this:
 
+**Maintain an open-source project? [Email a private run request](mailto:oss@northset.ai) for a PR already in your queue, or [open a public request](https://github.com/northset-oss/verification-pilot/issues/new?template=request-a-run.yml). Nothing is published without your approval. Free during the pilot.**
+
 ```text
 run record · M-008 · RaspberryPiFoundation/blockly-samples · PR #2748
 
@@ -23,7 +25,7 @@ That's a **run record**. It costs you nothing and touches nothing: no repo acces
 
 ## How to start
 
-1. **You invite us.** Open an issue in [verification-pilot](https://github.com/northset-oss/verification-pilot/issues) or email [oss@northset.ai](mailto:oss@northset.ai) and point us at the PR. For a repo we already work with, applying the `northset-verify` label is your standing OK.
+1. **You invite us.** [Email a private request](mailto:oss@northset.ai) or [open the dedicated public run-request form](https://github.com/northset-oss/verification-pilot/issues/new?template=request-a-run.yml) and point us at the PR. For a repo already onboarded with Northset, applying `northset-verify` to a PR requests a run on that PR; it is not standing consent for other PRs.
 2. **We run its declared checks** — your project's own commands, in a hardened, network-isolated, throwaway container.
 3. **You get the result, privately.** The exact commands, their outcomes, and the redacted output. A public, signed copy exists only if you ask for one.
 
@@ -78,6 +80,8 @@ Installing dependencies is a separate, earlier step that *does* use the network;
 
 ## Start here
 
+- **Request a private run** — [email oss@northset.ai](mailto:oss@northset.ai)
+- **Open a public request** — [dedicated run-request form](https://github.com/northset-oss/verification-pilot/issues/new?template=request-a-run.yml)
 - **Tooling, policies, issues** — [northset-oss/verification-pilot](https://github.com/northset-oss/verification-pilot)
 - **Public ledger** — [northset-oss.github.io/verification-pilot](https://northset-oss.github.io/verification-pilot/)
-- **Opt in, opt out, or ask anything** — [oss@northset.ai](mailto:oss@northset.ai)
+- **Opt out or ask anything** — [oss@northset.ai](mailto:oss@northset.ai)
